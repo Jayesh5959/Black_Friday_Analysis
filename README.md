@@ -17,3 +17,22 @@ Understand customer behavior through segmentation analysis. Identify high-value 
 
 ### Geographical Insights:
 Visualize sales distribution across different regions. Identify areas with high sales volumes and adapt marketing strategies to target specific regions.
+
+## How to Use:
+
+
+### Explore Insights:
+
+Interact with the dashboard to explore insights.
+Use filters to focus on specific products, customer segments, or geographic regions.
+
+### Contribute:
+
+Contributions are encouraged! Follow the contributing guidelines to contribute to the enhancement of the analysis.
+### Screenshots:
+
+Include relevant screenshots showcasing the key features of your Power BI dashboard.
+
+###Data Sources:
+The analysis is based on Black Friday sales data from various sources. The dataset is processed and transformed to provide accurate and insightful visualizations in Power BI.
+
