@@ -30,9 +30,9 @@ Use filters to focus on specific products, customer segments, or geographic regi
 
 Contributions are encouraged! Follow the contributing guidelines to contribute to the enhancement of the analysis.
 ### Screenshots:
-
+![Screenshot (31)](https://github.com/Jayesh5959/Black_Friday_Analysis/assets/155629669/c77a0b15-c569-4c4b-a1ac-56064205e7d7)
 Include relevant screenshots showcasing the key features of your Power BI dashboard.
 
-###Data Sources:
+### Data Sources:
 The analysis is based on Black Friday sales data from various sources. The dataset is processed and transformed to provide accurate and insightful visualizations in Power BI.
 
